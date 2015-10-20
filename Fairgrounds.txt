@@ -1,0 +1,17 @@
+Benton County Fairground; https://www.ingress.com/intel?ll=46.198027,-119.095714&z=17&pll=46.198027,-119.095714; 0
+Benton County Fairgrounds; https://www.ingress.com/intel?ll=46.195707,-119.096665&z=17&pll=46.195707,-119.096665; 0
+Benton County Fairgrounds Fountain; https://www.ingress.com/intel?ll=46.194789,-119.096399&z=17&pll=46.194789,-119.096399; 0
+Benton County Round Up Mural; https://www.ingress.com/intel?ll=46.194408,-119.095960&z=17&pll=46.194408,-119.095960; 0
+Bill Becks Memorial Building; https://www.ingress.com/intel?ll=46.195431,-119.099492&z=17&pll=46.195431,-119.099492; 0
+County Scale; https://www.ingress.com/intel?ll=46.195451,-119.098137&z=17&pll=46.195451,-119.098137; 0
+Cowboy Watch Out; https://www.ingress.com/intel?ll=46.194426,-119.096873&z=17&pll=46.194426,-119.096873; 0
+Dumbo; https://www.ingress.com/intel?ll=46.194577,-119.097224&z=17&pll=46.194577,-119.097224; 0
+East Gate Oark; https://www.ingress.com/intel?ll=46.198059,-119.096845&z=17&pll=46.198059,-119.096845; 0
+In Memory ofRich Brooks; https://www.ingress.com/intel?ll=46.195260,-119.096792&z=17&pll=46.195260,-119.096792; 0
+Kennewick Arboretum; https://www.ingress.com/intel?ll=46.198263,-119.096441&z=17&pll=46.198263,-119.096441; 0
+Little House on the Prairie; https://www.ingress.com/intel?ll=46.193048,-119.096849&z=17&pll=46.193048,-119.096849; 0
+Old Man Waggon; https://www.ingress.com/intel?ll=46.195493,-119.096560&z=17&pll=46.195493,-119.096560; 0
+Old Wagon; https://www.ingress.com/intel?ll=46.195014,-119.096412&z=17&pll=46.195014,-119.096412; 0
+Old mcdonald Barn; https://www.ingress.com/intel?ll=46.194765,-119.098883&z=17&pll=46.194765,-119.098883; 0
+The East Gate Park; https://www.ingress.com/intel?ll=46.198012,-119.100554&z=17&pll=46.198012,-119.100554; 0
+The Rabbit Barn; https://www.ingress.com/intel?ll=46.193975,-119.097693&z=17&pll=46.193975,-119.097693; 0
