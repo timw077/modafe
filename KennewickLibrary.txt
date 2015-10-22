@@ -1,0 +1,16 @@
+Castle Shed; https://www.ingress.com/intel?ll=46.193805,-119.182471&z=17&pll=46.193805,-119.182471; 0
+Children's Garden; https://www.ingress.com/intel?ll=46.193615,-119.182565&z=17&pll=46.193615,-119.182565; 0
+Compost Demonstration Murals; https://www.ingress.com/intel?ll=46.193559,-119.182098&z=17&pll=46.193559,-119.182098; 0
+Formal Garden; https://www.ingress.com/intel?ll=46.193791,-119.184146&z=17&pll=46.193791,-119.184146; 0
+Highlands Grange Park; https://www.ingress.com/intel?ll=46.193715,-119.184842&z=17&pll=46.193715,-119.184842; 0
+Highlands Grange Park East Entrance; https://www.ingress.com/intel?ll=46.194953,-119.180594&z=17&pll=46.194953,-119.180594; 0
+Japanese Garden; https://www.ingress.com/intel?ll=46.193867,-119.183259&z=17&pll=46.193867,-119.183259; 0
+Kennewick Branch Library; https://www.ingress.com/intel?ll=46.193934,-119.180922&z=17&pll=46.193934,-119.180922; 0
+Kennewick Branch Library Monument; https://www.ingress.com/intel?ll=46.193964,-119.180513&z=17&pll=46.193964,-119.180513; 0
+Kennewick Grange Hall Highlands #1037; https://www.ingress.com/intel?ll=46.195201,-119.180754&z=17&pll=46.195201,-119.180754; 0
+Kennewick Library; https://www.ingress.com/intel?ll=46.194432,-119.181593&z=17&pll=46.194432,-119.181593; 0 
+Kennewick Man; https://www.ingress.com/intel?ll=46.194072,-119.181374&z=17&pll=46.194072,-119.181374; 0 
+Little Lighthouse; https://www.ingress.com/intel?ll=46.194652,-119.182956&z=17&pll=46.194652,-119.182956; 0
+Native Plants Gardening Demonstrations; https://www.ingress.com/intel?ll=46.19362,-119.183161&z=17&pll=46.19362,-119.183161; 0
+Serenity Garden Fountain; https://www.ingress.com/intel?ll=46.193674,-119.184485&z=17&pll=46.193674,-119.184485; 0 
+Wall Tile River; https://www.ingress.com/intel?ll=46.193648,-119.180777&z=17&pll=46.193648,-119.180777; 0 

@@ -1,0 +1,30 @@
+Byron Gjerde; https://www.ingress.com/intel?ll=46.252407,-119.121003&z=17&pll=46.252407,-119.121003; 0
+CBC Art Gallery Face; https://www.ingress.com/intel?ll=46.251188,-119.122386&z=17&pll=46.251188,-119.122386; 0
+CBC Campus; https://www.ingress.com/intel?ll=46.253813,-119.121648&z=17&pll=46.253813,-119.121648; 0
+CBC Falcon Monument; https://www.ingress.com/intel?ll=46.250564,-119.12133&z=17&pll=46.250564,-119.12133; 0 
+CBC Memorial Magnolia for Don Paul; https://www.ingress.com/intel?ll=46.250793,-119.121749&z=17&pll=46.250793,-119.121749; 0
+CBC Planetarium; https://www.ingress.com/intel?ll=46.251905,-119.123944&z=17&pll=46.251905,-119.123944; 0
+CBC Robert and Elizabeth Moore Observator; https://www.ingress.com/intel?ll=46.252318,-119.126847&z=17&pll=46.252318,-119.126847; 0
+CBC Science Building; https://www.ingress.com/intel?ll=46.252365,-119.120027&z=17&pll=46.252365,-119.120027; 0
+CBC Softball Dugout; https://www.ingress.com/intel?ll=46.250643,-119.125972&z=17&pll=46.250643,-119.125972; 0
+CBC Sports Mural; https://www.ingress.com/intel?ll=46.24982,-119.121574&z=17&pll=46.24982,-119.121574; 0
+CBC Student Association Bench; https://www.ingress.com/intel?ll=46.251501,-119.120196&z=17&pll=46.251501,-119.120196; 0
+CBC Time Capsule; https://www.ingress.com/intel?ll=46.251629,-119.120872&z=17&pll=46.251629,-119.120872; 0 
+Cello Wrapped with Music; https://www.ingress.com/intel?ll=46.250803,-119.1225&z=17&pll=46.250803,-119.1225; 0 
+Columbia Basin Baseball Stadium; https://www.ingress.com/intel?ll=46.251277,-119.126534&z=17&pll=46.251277,-119.126534; 0
+Columbia Basin College Welcome Sign; https://www.ingress.com/intel?ll=46.251189,-119.117632&z=17&pll=46.251189,-119.117632; 0
+Columbia Basin College; https://www.ingress.com/intel?ll=46.249646,-119.117667&z=17&pll=46.249646,-119.117667; 0
+Crabapple Sculpture at Columbia Basin College; https://www.ingress.com/intel?ll=46.250859,-119.11996&z=17&pll=46.250859,-119.11996; 0
+Fish Fountain; https://www.ingress.com/intel?ll=46.253052,-119.119687&z=17&pll=46.253052,-119.119687; 0
+Hawk Union Building; https://www.ingress.com/intel?ll=46.251919,-119.120989&z=17&pll=46.251919,-119.120989; 0
+History of Dance Mural; https://www.ingress.com/intel?ll=46.251389,-119.121686&z=17&pll=46.251389,-119.121686; 0
+Library Building; https://www.ingress.com/intel?ll=46.251093,-119.12068&z=17&pll=46.251093,-119.12068; 0 
+Martin Luther King Statue; https://www.ingress.com/intel?ll=46.252207,-119.119941&z=17&pll=46.252207,-119.119941; 0
+Morse Clary Sculpture; https://www.ingress.com/intel?ll=46.251058,-119.121906&z=17&pll=46.251058,-119.121906; 0
+People, A Collaboration, Columbia Basin College; https://www.ingress.com/intel?ll=46.250806,-119.118474&z=17&pll=46.250806,-119.118474; 0
+Reading Takes you Places Bus Stop; https://www.ingress.com/intel?ll=46.251142,-119.116747&z=17&pll=46.251142,-119.116747; 0
+Sundial - Columbia Basin College; https://www.ingress.com/intel?ll=46.251647,-119.119879&z=17&pll=46.251647,-119.119879; 0
+Technology Education Centre; https://www.ingress.com/intel?ll=46.254466,-119.117788&z=17&pll=46.254466,-119.117788; 0
+U.S. Armed Forces Memorial; https://www.ingress.com/intel?ll=46.251389,-119.121686&z=17&pll=46.251389,-119.121686; 0 
+Wayne Martin Ph.D.; https://www.ingress.com/intel?ll=46.25297,-119.120196&z=17&pll=46.25297,-119.120196; 0 
+Welcome to Pasco; https://www.ingress.com/intel?ll=46.255789,-119.11697&z=17&pll=46.255789,-119.11697; 0
