@@ -1,4 +1,7 @@
 # modafe
+modafe Doesn't stand for anything.  I used a random name selctor to pick a name. 
+
+
 Columbia Basin Resistance Portal locations for maxfield 
 
 The purpose is to help keep track of portal locations for "maxfiled" plans.
